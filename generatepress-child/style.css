@@ -1,0 +1,16 @@
+/*
+ Theme Name:   generatepress Child
+ Theme URI:    https://generatepress.com/
+ Description:  Generatepress Child Theme
+ Author:       Jose Angel Sampere
+ Author URI:   http://Sampere.com
+ Template:     generatepress
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  generatepresschild
+*/
+div.entry-content{
+    font-family: "Apple SD Gothic Neo", "Malgun Gothic", "Nanum Gothic", Dotum, sans-serif;color: #0c0c0c;
+}
