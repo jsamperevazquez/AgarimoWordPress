@@ -5,10 +5,8 @@
 
 ## Personalizado desde el back-end
 
-![Imagen del backEnd](https://github.com/jsamperevazquez/AgarimoWordPress/blob/main/Media/estilo1.png)
+![Imagen del backEnd](https://github.com/jsamperevazquez/AgarimoWordPress/blob/main/Media/estilo1.png) - - - ![Imagen del backEnd](https://github.com/jsamperevazquez/AgarimoWordPress/blob/main/Media/estilo2.png)
 
-
-![Imagen del backEnd](https://github.com/jsamperevazquez/AgarimoWordPress/blob/main/Media/estilo2.png)
 
 
 ![Imagen del backEnd](https://github.com/jsamperevazquez/AgarimoWordPress/blob/main/Media/estilo3.png)
@@ -36,6 +34,21 @@
 6. Coloco el puntero del css apuntado hacia el elemento al cual quieras establecer un estilo y das estilo (CSS)
 7. Recargo para ver correcto funcionamiento
 
-
+### Cabecera de style.css
+<pre>
+/*
+Theme Name:   generatepress Child
+Theme URI:    https://generatepress.com/
+Description:  Generatepress Child Theme
+Author:       Jose Angel Sampere
+Author URI:   http://Sampere.com
+Template:     generatepress
+Version:      1.0.0
+License:      GNU General Public License v2 or later
+License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+Text Domain:  generatepresschild
+*/
+</pre>
 
 
